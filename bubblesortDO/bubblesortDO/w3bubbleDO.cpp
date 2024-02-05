@@ -27,5 +27,6 @@ int main() {
         cout << a[i] << " ";
     }
 
+
     return 0; // Indicating successful completion of the program
 }
